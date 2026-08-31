@@ -113,7 +113,7 @@
 |Honda|CR-V Hybrid 2023-26|All|[Upstream](#upstream)|
 |Honda|e 2020|All|[Upstream](#upstream)|
 |Honda|Fit 2018-20|Honda Sensing|[Upstream](#upstream)|
-|Honda|Fit 4G 2021-2025|All|[Community](#community)|
+|Honda|Fit 2021-2025|All|[Custom](#custom)|
 |Honda|Freed 2020|Honda Sensing|[Upstream](#upstream)|
 |Honda|HR-V 2019-22|Honda Sensing|[Upstream](#upstream)|
 |Honda|HR-V 2023-25|All|[Upstream](#upstream)|
